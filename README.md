@@ -4,12 +4,6 @@ O **PIT WALL** é uma landing page temática de Fórmula 1 desenvolvida com foco
 
 ---
 
-## 📸 Demonstração
-
-*(Adicione uma imagem ou GIF do projeto aqui depois que publicar! Exemplo: `![Demonstração](./img/preview.png)`)*
-
----
-
 ## ⚙️ Funcionalidades
 
 - **Hero Banner:** Área principal em destaque com estatísticas da pista de Interlagos e chamada para ação (CTA).
